@@ -1,0 +1,20 @@
+.nav-link:hover{
+color: #e7ba09 !important;
+}
+
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.657)), url(../images/header\ back.jpg);
+    background-size: cover;
+}
+i:hover,
+.btn:hover,
+#prod:hover{
+    cursor: pointer;
+    -webkit-transform: scale(1.06,1.06) ;
+    transform: scale(1.06,1.06) ;
+
+}
+#prod{
+    width: 325px;
+}
